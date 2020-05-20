@@ -1,0 +1,4 @@
+# Project exclude paths
+/kafka-basics/target/
+/kafka-twitter-consumer/target/
+/kafka-twitter-producer/target/
